@@ -1,0 +1,32 @@
+[33mcommit fd2a992f10ca44658136657854f81a63b39fde98[m
+Merge: 7a04b5b 9f31ab0
+Author: alexkrone <alexkrone13@gmail.com>
+Date:   Thu Nov 26 12:17:04 2015 -0700
+
+    Merge pull request #1 from alexkrone/alternate
+    
+    newfile added to alternate
+
+[33mcommit 9f31ab06ec2c1d69a92265ba28cf63d4edea192d[m
+Author: Alex <alexkrone13@gmail.com>
+Date:   Thu Nov 26 12:05:31 2015 -0700
+
+    newfile added to alternate
+
+[33mcommit 7a04b5bc7ac134f5bfbee315fc2e404ce6319a48[m
+Author: Alex <alexkrone13@gmail.com>
+Date:   Wed Nov 25 11:28:53 2015 -0700
+
+    third addition
+
+[33mcommit 8930cbdfe1937a1aa9553e98d4b8be9c427ac62c[m
+Author: Alex <alexkrone13@gmail.com>
+Date:   Wed Nov 25 11:12:36 2015 -0700
+
+    second addition
+
+[33mcommit 9da8533fe242eba02d03a023059091a4c5b6752a[m
+Author: Alex <alexkrone13@gmail.com>
+Date:   Wed Nov 25 11:02:07 2015 -0700
+
+    first addition
